@@ -9,7 +9,7 @@
 > 基于机器学习的智能空气质量预测系统，为环境监测提供精准、实时的AQI预测服务
 
 
-![系统主界面](images/air_predictor/main-interface.png)
+![系统主界面](/assets/images/air_predictor/main-interface.png)
 
 ## 🚀 项目概述
 
@@ -27,7 +27,7 @@
 ## 🏗️ 系统架构
 
 
-![系统架构图](images/air_predictor/system-architecture.png)
+![系统架构图](/assets/images/air_predictor/system-architecture.png)
 
 ### 技术栈
 
@@ -57,9 +57,9 @@
 - 实时数据验证和格式检查
 
 - 接入真实的气象站api，支持实时查询对应城市的空气情况
-	![数据输入界面](images/air_predictor/data-input1.png)
+	![数据输入界面](/assets/images/air_predictor/data-input1.png)
 
-	![数据输入界面](images/air_predictor/main-interface.png)
+	![数据输入界面](/assets/images/air_predictor/main-interface.png)
 
 ### 2. 预测引擎
 - **集成学习算法**：多模型投票机制
@@ -67,7 +67,7 @@
 - **模型优化**：动态权重调整
 
 
-![预测过程可视化](images/air_predictor/prediction-process.png)
+![预测过程可视化](/assets/images/air_predictor/prediction-process.png)
 
 ### 3. 结果展示
 - AQI等级分类（优、良、轻度污染等）
@@ -75,7 +75,7 @@
 - 预测置信度显示
 
 <!-- 需要配图：结果展示界面，展示AQI结果和健康建议 -->
-![预测结果展示](images/air_predictor/prediction-results.png)
+![预测结果展示](/assets/images/air_predictor/prediction-results.png)
 
 ### 4. 数据可视化
 - 实时图表展示
@@ -174,7 +174,7 @@ npm start
 ## 📈 商业价值
 
 <!-- 需要配图：财务分析图表截图，展示收入预测曲线 -->
-![商业价值分析](images/air_predictor/business-value.png)
+![商业价值分析](/assets/images/air_predictor/business-value.png)
 
 ### 市场前景
 - 环保监测市场年增长率15%+
